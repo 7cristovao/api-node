@@ -1,0 +1,22 @@
+$ npm init
+Para iniciar um projeto
+$ npm install express
+Para instalar a biblioteca express
+$ node src/app.js
+Para rodar o servidor na porta estipulada no arquivo package.json
+$ npm install -g nodemon
+Para instalar a biblioteca NODEMON
+$ npm install --save nodemon
+Para instalar a biblioteca NODEMON pois deu erro
+$ npm run dev
+Serve para rodar o aplicativo em desenvolvimento
+
+- Abaixo de scripts, inserir esta linha no package.json:
+"dev": "nodemon src/app.js",
+
+- Criar uma Collection no Insomnia ou Postman
+
+$ npm install sqlite3 --save
+Instalar a biblioteca do sqlite3
+
+

@@ -1,0 +1,11 @@
+$ npm install cors -S
+Para instalar o CORS
+
+$ npm install https -S
+Modulo HTTPS para poder chamar a nossa API utilizando não só HTTP
+
+$ npm install fs -S
+Instalar File System
+
+Gerar certificado digital
+https://pt.rakko.tools/tools/46/
